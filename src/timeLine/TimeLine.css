@@ -1,0 +1,15 @@
+.timeLine {
+
+  display: flex;
+  flex-direction: row;
+}
+
+.timeLine__left {
+
+  flex: 0.7;
+}
+
+.timeLine__right {
+
+  flex: 0.3;
+}

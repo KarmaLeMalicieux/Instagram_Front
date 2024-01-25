@@ -1,0 +1,53 @@
+.sideNav{
+
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  z-index: 1;
+}
+
+.sideNav__logo{
+
+  width: 120px;
+  margin: 25px;
+}
+
+.sideNav_buttons{
+
+  display: flex;
+  flex-direction: column;
+}
+
+.sideNav__button {
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: white;
+  background: 0;
+  border: 0;
+  margin: 5px 10px 5px 10px;
+  padding: 10px 15px 10px 15px;
+  border-radius: 15px;
+  width: 100%;
+}
+
+.sideNav__button:hover{
+
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 0.128);
+}
+
+.sideNav__button > span {
+
+  font-size: 18px;
+  font-weight: bolder;
+  margin-left: 10px;
+}
+
+.sideNav__more {
+
+  position: fixed;
+  bottom: 3px;
+}
