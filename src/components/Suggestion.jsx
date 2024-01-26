@@ -1,5 +1,5 @@
 import { Avatar } from '@mui/material'
-import './Suggestion.css'
+import './styles/Suggestion.css'
 
 function Suggestion() {
   return (

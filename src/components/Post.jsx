@@ -1,5 +1,5 @@
 import { Avatar } from "@mui/material"
-import "./Post.css"
+import "./styles/post.css"
 import { FavoriteBorder, MoreHoriz, Telegram } from "@mui/icons-material"
 import ChatBubbleOutlineIcon from "@mui/icons-material/ChatBubbleOutline";
 import BookmarkBorderIcon from "@mui/icons-material/BookmarkBorder";

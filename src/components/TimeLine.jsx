@@ -1,7 +1,7 @@
 import { useState } from "react"
 import Suggestion from "./Suggestion"
-import "./TimeLine.css"
-import Post from "./posts/Post"
+import "./styles/TimeLine.css"
+import Post from "./Post"
 
 function TimeLine() {
   const [posts, setPosts] = useState([

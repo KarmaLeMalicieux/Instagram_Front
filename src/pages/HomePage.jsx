@@ -1,5 +1,7 @@
-import SideNav from '../navigation/SideNav';
-import TimeLine from '../timeLine/TimeLine';
+
+import SideNav from '../components/SideNav';
+import TimeLine from '../components/TimeLine';
+
 import './HomePage.css';
 
 
