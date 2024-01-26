@@ -9,6 +9,15 @@
   flex: 0.7;
 }
 
+.timeLine__posts{
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 200px;
+}
+
+
 .timeLine__right {
 
   flex: 0.3;
